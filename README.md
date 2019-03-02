@@ -1,6 +1,6 @@
 # UERC-Ear-Recognition-Challenge
 ----------------------------------------
-UERC 2017 Competition Datasets
+UERC 2017 Competition Datasets (Get the dataset by registering for UERC and obtain License)
 ----------------------------------------
 
 TRAIN (2,304 images of 166 subjects)
